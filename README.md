@@ -14,10 +14,10 @@ This is a simple URL Shortner built using jQuery || HTML || Javascript || CSS ||
 
 #### 👀👇 Click links to view some samples in this project 👇👀
 
-- **[HTML]()**  
-- **[JavaScript]()**  
-- **[Bootstrap]()**  
-- **[jQuery]()**  
+- **[HTML](index.html)**  
+- **[JavaScript](main.js)**  
+- **[Bootstrap](https://getbootstrap.com/docs/4.4/components/buttons/)**  
+- **[jQuery](https://jquery.com/)**  
 
 ## Goals for this project:
 
