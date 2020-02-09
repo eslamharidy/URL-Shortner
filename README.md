@@ -3,7 +3,8 @@
 ## [ ✄ ✄ Check out the deployed version here!  ✄ ✄](https://blocklab.netlify.com)
 ## What this project is about
 
-This is a simple URL Shortner built using jQuery || HTML || Javascript || CSS || Bootstrap. For more info please checkout: **[Goals for this project](#goals-for-this-project)**
+This is a simple URL Shortner built using jQuery || HTML || Javascript || CSS || Bootstrap.
+The same task can be done in many other (better) ways, this is only one way. For more info please checkout: **[Goals for this project](#goals-for-this-project)**
 
 ## Table of contents:
 
